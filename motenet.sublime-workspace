@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acti",
+				"activeZone"
+			],
+			[
+				"ty",
+				"typedef"
+			],
+			[
+				"timer",
+				"timerActive"
+			],
+			[
+				"zon",
+				"zoneCycle"
+			],
+			[
+				"zone",
+				"zoneNumber"
+			],
+			[
+				"spkl",
+				"spklZonePkg"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"sp",
+				"spklSysCtrl"
+			],
+			[
+				"N",
+				"NodeMsg_h"
+			],
+			[
+				"the",
+				"thePackage"
+			],
+			[
+				"DAT",
+				"DATALEN"
+			],
+			[
+				"TAR",
+				"TARGETID_2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 299.0
+	},
+	"console":
+	{
+		"height": 147.0,
+		"history":
+		[
+			"git",
+			"git status",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/swdata/Projects/motenet/Gateway_Node"
+	],
+	"file_history":
+	[
+		"/home/phox/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
+		"/home/phox/.config/sublime-text-3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/swdata/Projects/2014_12_10/Gateway_Node/NodeConf.h",
+		"/swdata/Projects/2014_12_10/Gateway_Node/NodeMsg.h",
+		"/swdata/Projects/2014_12_10/Gateway_Node/__OLD-DONOTUSE_NodeMsg.h",
+		"/swdata/Projects/2014_12_10/Gateway_Node/applet/Gateway_Node.cpp",
+		"/swdata/Projects/2014_12_10/Gateway_Node/Makefile",
+		"/swdata/Projects/2014_12_10/Gateway_Node/Gateway_Node.cc",
+		"/swdata/Projects/2014_12_10/Gateway_Node/BLUE",
+		"/swdata/Projects/2014_12_10/Examples/Struct_send/applet/Struct_send.hex",
+		"/swdata/Projects/2014_12_10/Examples/Struct_send/applet/Struct_send.elf",
+		"/swdata/Projects/2014_12_10/Examples/Struct_send/applet/Struct_send.cpp",
+		"/swdata/Projects/2014_12_10/Examples/Struct_send/Struct_send.ino",
+		"/swdata/Projects/2014_12_10/Examples/Struct_send/Struct_send.cc",
+		"/swdata/Projects/2014_12_10/Examples/Struct_send/Makefile",
+		"/swdata/Projects/2014_12_10/Examples/Struct_receive/Struct_receive.ino",
+		"/swdata/Projects/2014_12_10/Examples/Struct_receive/Struct_receive.cc",
+		"/swdata/Projects/2014_12_10/README",
+		"/swdata/Projects/2014_12_10/2014_12_10.sublime-project",
+		"/home/phox/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/swpkg/avr/current/libraries/FoxNet/NodeMsg.h",
+		"/home/phox/.config/sublime-text-3/Packages/User/Package Control.cache/ad7758d143e99a76034aad71ae2a1f3b",
+		"/home/phox/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/swdata/Projects/2014_12_10/SprinkleControl_Node/NodeMsg.h",
+		"/swdata/Projects/2014_12_10/SprinkleControl_Node/NodeConf.h",
+		"/swdata/Projects/2014_11_30/sendCmd/sendCmd.cc",
+		"/swdata/Projects/2014_11_30/receiveCmd/receiveCmd.cc",
+		"/swdata/Projects/2014_11_30/sendCmd/NodeConf.h",
+		"/swdata/Projects/2014_11_30/sendCmd/NodeMsg.h",
+		"/swdata/Projects/2014_11_30/receiveCmd/Struct_receive.cc",
+		"/swdata/Projects/2014_11_30/README",
+		"/swdata/Projects/2014_11_30/test.sublime-project",
+		"/swdata/Projects/2014_11_30/Examples/Struct_receive/Struct_receive.cc",
+		"/swdata/Projects/2014_11_30/receiveCmd/Makefile",
+		"/swdata/Projects/2014_11_30/Examples/Struct_send/Struct_send.cc",
+		"/swdata/Projects/2014_11_30/Examples/Struct_send/Makefile",
+		"/swdata/Projects/2014_11_30/sendCmd/Makefile",
+		"/swdata/Projects/2014_11_30/sendCmd/Struct_send.cc",
+		"/swdata/Projects/2014_11_30/sendCmd/BLUE",
+		"/swdata/Projects/2014_11_30/sendCmd/applet/sendCmd.cpp",
+		"/swdata/Projects/2014_11_30/receiveCmd/applet/receiveCmd.cpp",
+		"/swdata/Projects/2014_11_30/Examples/Struct_send/applet/Struct_send.cpp",
+		"/swdata/Projects/2014_11_30/receiveCmd/applet/receiveCmd.elf",
+		"/swdata/Projects/2014_11_30/Examples/Struct_send/applet/Struct_send.elf",
+		"/swdata/Projects/2014_11_30/Examples/Struct_send/Struct_send.ino",
+		"/swdata/Projects/2014_11_30/Examples/Struct_receive/Struct_receive.ino",
+		"/swdata/Projects/2014_11_30/Examples/Struct_send/applet/Struct_send.hex",
+		"/swdata/Projects/2014_11_30/receiveCmd/applet/receiveCmd.hex",
+		"/swdata/Projects/2014_11_30/sendCmd/applet/sendCmd.elf",
+		"/swdata/Projects/2014_11_30/sendCmd/applet/sendCmd.hex",
+		"/home/phox/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/phox/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/phox/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/phox/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 20.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"requestACK",
+			"endif",
+			"_spklZone",
+			"activeZone",
+			"percentComplete",
+			"pkg",
+			"thePackage",
+			"Serial",
+			"\n    ",
+			"pkg",
+			"Package",
+			"_spklSysCtrl",
+			"_spklProgCtrl",
+			"Package_3",
+			"Package_2",
+			"Package",
+			"uptime",
+			"FOO",
+			"radio.SENDERID",
+			"theData",
+			"DATALEN",
+			"();\n",
+			"currPeriod",
+			"int",
+			"\");  ",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 20.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 82.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 242.0
+	},
+	"output.git-init":
+	{
+		"height": 82.0
+	},
+	"output.git-push":
+	{
+		"height": 82.0
+	},
+	"output.git-remote":
+	{
+		"height": 82.0
+	},
+	"project": "motenet.sublime-project",
+	"replace":
+	{
+		"height": 36.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"2014_12_10/Gateway_Node/NodeMsg.h"
+			],
+			[
+				"node",
+				"2014_12_10/SprinkleControl_Node/NodeConf.h"
+			],
+			[
+				"nod",
+				"FoxNet/NodeMsg.h"
+			],
+			[
+				"gat",
+				"Gateway_Node/Gateway_Node.cc"
+			],
+			[
+				"spr",
+				"SprinkleControl_Node/SprinkleControl_Node.cc"
+			],
+			[
+				"sendc",
+				"sendCmd/sendCmd.cc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 350.0,
+		"selected_items":
+		[
+		],
+		"width": 266.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 105.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
