@@ -34,10 +34,6 @@ class sysConfig():
 
 
 
-
-
-
-
 if __name__ == '__main__':
 	'Execute'
 	print 'Starting unit testing'
