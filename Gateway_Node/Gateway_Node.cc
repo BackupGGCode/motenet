@@ -43,6 +43,7 @@ void loop() {
     }
     Blink(LED,5);
     Serial.println();
+
     theData = *(Payload*)radio.DATA;
     // Process received Data
     switch(theData.pkgType) {
@@ -174,5 +175,5 @@ void rxZoneStatus() {
 
 }
 
-
+// Add code to send only structure
 

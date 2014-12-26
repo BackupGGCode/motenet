@@ -45,6 +45,6 @@ if __name__ == '__main__':
 	conf = sysConf.getConfig()
 	print 'Serial Port = {0}'.format(conf.SERIAL_PORT)
 	print 'Serial Baud = {0}'.format(conf.SERIAL_BAUD)
-
+	print "Done"
 
 
