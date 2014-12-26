@@ -43,7 +43,7 @@ if __name__ == '__main__':
 	print 'Starting unit testing'
 	sysConf = sysConfig()
 	conf = sysConf.getConfig()
-	print 'A = {0}'.format(conf.a)
+	print 'Serial Port = {0}'.format(conf.SERIAL_PORT)
 
 
 
