@@ -3,7 +3,7 @@
 
 import serial, os, sys, struct, json
 from pprint import pprint
-from collections import namedtuple # http://stackoverflow.com/questions/6578986/how-to-convert-json-data-into-a-python-object
+from sysConfig import sysConfig
 
 
 '''
@@ -11,7 +11,7 @@ Details for struct
 https://docs.python.org/2/library/struct.html
 Note: Struct does not support byte data type. Using char transformation.
 '''
-
+"""
 class sysConfig():
 	'''
 		Configuration processor
@@ -31,6 +31,8 @@ class sysConfig():
 		Public interface for collecting system configuration
 		'''
 		return self._loadConfig()
+"""
+
 
 
 
